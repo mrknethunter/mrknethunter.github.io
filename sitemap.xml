@@ -2,10 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mrknethunter.github.io/categories/</loc>
+    <loc>https://mrknethunter.github.io/about/</loc>
+    <lastmod>2025-12-27T19:03:19+01:00</lastmod>
+  </url><url>
+    <loc>https://mrknethunter.github.io/blog/</loc>
+    <lastmod>2025-12-27T19:03:19+01:00</lastmod>
   </url><url>
     <loc>https://mrknethunter.github.io/</loc>
+    <lastmod>2025-12-27T19:03:19+01:00</lastmod>
+  </url><url>
+    <loc>https://mrknethunter.github.io/projects/</loc>
+    <lastmod>2025-12-27T19:03:19+01:00</lastmod>
+  </url><url>
+    <loc>https://mrknethunter.github.io/research/</loc>
+    <lastmod>2025-12-27T19:03:19+01:00</lastmod>
+  </url><url>
+    <loc>https://mrknethunter.github.io/tags/csf/</loc>
+    <lastmod>2025-12-27T10:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mrknethunter.github.io/tags/framework/</loc>
+    <lastmod>2025-12-27T10:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mrknethunter.github.io/blog/nist_csf/</loc>
+    <lastmod>2025-12-27T10:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mrknethunter.github.io/tags/nist/</loc>
+    <lastmod>2025-12-27T10:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mrknethunter.github.io/tags/security/</loc>
+    <lastmod>2025-12-27T10:30:00+00:00</lastmod>
   </url><url>
     <loc>https://mrknethunter.github.io/tags/</loc>
+    <lastmod>2025-12-27T10:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mrknethunter.github.io/categories/</loc>
   </url>
 </urlset>

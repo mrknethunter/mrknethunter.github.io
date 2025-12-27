@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mrknethunter blog</title>
-    <link>https://mrknethunter.github.io/</link>
-    <description>Recent content on mrknethunter blog</description>
+    <title>framework on mrknethunter blog</title>
+    <link>https://mrknethunter.github.io/tags/framework/</link>
+    <description>Recent content in framework on mrknethunter blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Dec 2025 19:03:19 +0100</lastBuildDate><atom:link href="https://mrknethunter.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Dec 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://mrknethunter.github.io/tags/framework/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduzione al NIST Cybersecurity Framework (CSF)</title>
       <link>https://mrknethunter.github.io/blog/nist_csf/</link>
